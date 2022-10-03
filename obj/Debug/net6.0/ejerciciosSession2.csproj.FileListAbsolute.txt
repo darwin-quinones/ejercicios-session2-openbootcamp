@@ -1,0 +1,15 @@
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\bin\Debug\net6.0\ejerciciosSession2.exe
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\bin\Debug\net6.0\ejerciciosSession2.deps.json
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\bin\Debug\net6.0\ejerciciosSession2.runtimeconfig.json
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\bin\Debug\net6.0\ejerciciosSession2.dll
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\bin\Debug\net6.0\ejerciciosSession2.pdb
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.csproj.AssemblyReference.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.AssemblyInfoInputs.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.AssemblyInfo.cs
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.dll
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\refint\ejerciciosSession2.dll
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.pdb
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ejerciciosSession2.genruntimeconfig.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\ejerciciosSession2\obj\Debug\net6.0\ref\ejerciciosSession2.dll
