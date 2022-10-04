@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Muz8Q1poUaKI2yj223kBA0D6q7x0AhtLubZ4T4EyMFt4CHFmH7VbEnJG38O4Ix4vct2UkqKx2/lo/+uEguDIDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\openbootcamp\\ejerciciosSession2\\ejerciciosSession2.csproj",
+=======
+  "dgSpecHash": "BSgzo96I9E8UF1CFXkft1jOEdm45A3XB9+ao3isoRdv7jNQ8rp2COoGuPZ91m/LLZPpyAX15W0cPiHHJY7ib/g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\openbootcamp\\ejerciciosSession2\\ejerciciosSession2.csproj",
+>>>>>>> 4fc067774bbee0c0bbca2d18b87470cd0c7dc76f
   "expectedPackageFiles": [],
   "logs": []
 }
