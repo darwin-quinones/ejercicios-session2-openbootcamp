@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\ejerciciosSession2\\ejerciciosSession2.csproj",
+      "projectUniqueName": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\openbootcamp\\ejerciciosSession2\\ejerciciosSession2.csproj",
       "projectName": "ejerciciosSession2",
-      "projectPath": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\ejerciciosSession2\\ejerciciosSession2.csproj",
+      "projectPath": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\openbootcamp\\ejerciciosSession2\\ejerciciosSession2.csproj",
       "packagesPath": "C:\\Users\\desarrollador1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\ejerciciosSession2\\obj\\",
+      "outputPath": "C:\\Users\\desarrollador1\\Desktop\\darwin\\c#\\openbootcamp\\ejerciciosSession2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
